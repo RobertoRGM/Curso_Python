@@ -1,0 +1,9 @@
+***Aula2***
+
+Tipos primtivos
+int = inteiros 
+float = reais
+bool = lógicos (True ou False)
+str = caract ou strings
+
+'{}'.format()
